@@ -24,3 +24,14 @@
 ```
 https://m.habr.com/ru/post/350886/
 ```
+
+
+#### Structure
+```
+src
+  fonts
+  html
+  img
+  js
+```
+  scss
