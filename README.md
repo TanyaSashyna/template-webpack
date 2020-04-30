@@ -2,7 +2,7 @@
 
 #### Installation
 ```
-1. git clone https://gitlab.com/hygge_software/hygge/website
+1. git clone https://gitlab.com/<some-project>
 
 2. npm install
 
