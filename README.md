@@ -33,5 +33,5 @@ src
   html
   img
   js
-```
   scss
+```
