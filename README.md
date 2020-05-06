@@ -12,8 +12,8 @@
 #### to start the project
 ```
 1. npm run dev
-2. npm run watch
-3. npm run start
+2. npm run start
+2. npm run build
 ```
 
 
